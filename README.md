@@ -1,8 +1,6 @@
 # Lexical Analyzer
 lexical analyzer for python in python
 
-### Dependencies
-python 2.7
 
 ### Running the lexical analyzer
 To run the lexical analyzer on a python file you need to add the file in the same directory. For example
@@ -21,5 +19,4 @@ to get the lexical analysis.
 * Keywords are found
 * ID's are found
 
-### Still Working On
-* Getting ID lexical errors
+
