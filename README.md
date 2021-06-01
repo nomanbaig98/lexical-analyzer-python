@@ -1,9 +1,3 @@
-# Lexical Analyzer
-lexical analyzer for python in python
-
-### Dependencies
-python 2.7
-
 ### Running the lexical analyzer
 To run the lexical analyzer on a python file you need to add the file in the same directory. For example
 there is an file titled example.py. To run the lexical analyzer on this file, use the terminal and run
@@ -21,5 +15,4 @@ to get the lexical analysis.
 * Keywords are found
 * ID's are found
 
-### Still Working On
-* Getting ID lexical errors
+Build in Python latest version
