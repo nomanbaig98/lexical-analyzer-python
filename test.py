@@ -10,4 +10,3 @@ print(b, c)
 
 def thing(word):
     return word + 'added words'
-
